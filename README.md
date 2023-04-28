@@ -5,6 +5,7 @@
 ![Tyran GitHub stats](https://github-readme-stats.vercel.app/api?username=Tyran15&show_icons=true&theme=tokyonight)
 
 <h2>
+
 Social midia 
 
 [![blog{}](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Mateus_henri)
