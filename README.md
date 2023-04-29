@@ -1,11 +1,14 @@
 
-### Opa, Tyran aqui!
-<br>
+### Hello World!
 
-![Tyran GitHub stats](https://github-readme-stats.vercel.app/api?username=Tyran15&show_icons=true&theme=tokyonight)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="25" height="25"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="25" height="25"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25" height="25"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25" height="25"/>
+
+![Tyran GitHub stats](https://github-readme-stats.vercel.app/api?username=Tyran15&show_icons=true&theme=tokyonight)          
 
 <h2>
-
 Social midia 
 
 [![blog{}](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Mateus_henri)
@@ -32,6 +35,8 @@ Skills(learn)
 
 </h1>
 
+
 Amante de programação tanto Front-end quanto Back-end, E futuro Game-Dev.
 
 obrigado por ler minha página \ (^-^) /
+
