@@ -20,6 +20,7 @@ Social midia
 Web browsers
 
 [![blog{}](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://www.mozilla.org/pt-BR/firefox/new/)
+[![blog{}](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)](https://brave.com/pt-br/)
 
 OS
 
