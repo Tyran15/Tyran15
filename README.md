@@ -38,6 +38,6 @@ Amante de programação tanto Front-end quanto Back-end, E futuro Game-Dev.
 obrigado por ler minha página \ (^-^) /
     
 <p float="rigth">
- <img src="https://pin.it/1MZKzx7">    
+ <img src="https://media.tenor.com/_gfqfXAP08IAAAAC/polish-cow-cow.gif">    
 </p>
 
