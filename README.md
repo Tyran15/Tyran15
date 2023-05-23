@@ -1,5 +1,7 @@
 
 ### Hello World!
+
+## Estou aprendendo!
 <div id="icons">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="25" height="25"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="25" height="25"/>
@@ -8,8 +10,11 @@
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="25" height="25"/>
 </div>
 
-![Tyran GitHub stats](https://github-readme-stats.vercel.app/api?username=Tyran15&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tyran15&size_weight=0.5&count_weight=0.5&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ## Social midia 
 
