@@ -1,6 +1,9 @@
-
+<div>
 # Hello World!
-
+    <p float="center">
+         <img src="https://media.tenor.com/pXEDrZV2s4QAAAAj/star-spinning.gif" width="50">    
+    </p>
+</div>
 ### Estou aprendendo!
 <div id="icons">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="25" height="25"/>
@@ -10,7 +13,7 @@
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="25" height="25"/>
 </div>
 <div>
-<a href="https://github.com/seu-usuário-aqui">
+<a href="https://github.com/Tyran15">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tyran15&layout=compact&langs_count=7&theme=dracula"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Tyran15&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
