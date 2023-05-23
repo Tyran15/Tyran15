@@ -38,6 +38,6 @@ Amante de programação tanto Front-end quanto Back-end, E futuro Game-Dev.
 obrigado por ler minha página \ (^-^) /
     
 <p float="rigth">
- <img src="https://www.google.com/urlsa=i&url=https%3A%2F%2Fjtohsjoketowers.fandom.com%2Fwiki%2FUser_blog%3ARarezites%2FPolish_Cow&psig=AOvVaw2l9793HJhcKpt7MHhWIXhx&ust=1684957462591000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCNCA8-qZjP8CFQAAAAAdAAAAABAS">    
+ <img src="https://pin.it/1MZKzx7">    
 </p>
 
