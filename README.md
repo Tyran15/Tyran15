@@ -1,9 +1,12 @@
-<div>
+
 # Hello World!
+
+<div>
     <p float="center">
          <img src="https://media.tenor.com/pXEDrZV2s4QAAAAj/star-spinning.gif" width="50">    
     </p>
 </div>
+
 ### Estou aprendendo!
 <div id="icons">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="25" height="25"/>
