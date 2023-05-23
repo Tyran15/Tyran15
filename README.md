@@ -34,7 +34,7 @@
 [![blog{}](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 
 
-<img src="https://pin.it/6HrEfiI">
+<img src="Spin Haunter Sticker - Spin Haunter Haunter Spin - Descobrir e Compartilhar GIFs (1)">
 
 Amante de programação tanto Front-end quanto Back-end, E futuro Game-Dev.
 
