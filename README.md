@@ -35,7 +35,7 @@
 
 
 <p float="left">
- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fdancing-cow-gifs&psig=AOvVaw2l9793HJhcKpt7MHhWIXhx&ust=1684957462591000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCNCA8-qZjP8CFQAAAAAdAAAAABAD" width="200" />    
+ <img src="https://media.tenor.com/9egJp0qwy_UAAAAi/polish-cow-polish.gif" width="200">    
 </p>
 
 Amante de programação tanto Front-end quanto Back-end, E futuro Game-Dev.
