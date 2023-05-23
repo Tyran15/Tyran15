@@ -38,6 +38,6 @@ Amante de programação tanto Front-end quanto Back-end, E futuro Game-Dev.
 obrigado por ler minha página \ (^-^) /
     
 <p float="rigth">
- <img src="https://media.tenor.com/10ADXBzLTygAAAAi/polish-cow-dancing-cow.gif">    
+ <img src="https://media.tenor.com/pXEDrZV2s4QAAAAj/star-spinning.gif">    
 </p>
 
