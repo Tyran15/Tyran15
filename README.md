@@ -35,7 +35,7 @@
 
 
 <p float="left">
- <img src="https://media.tenor.com/9egJp0qwy_UAAAAi/polish-cow-polish.gif" width="200">    
+ <img src="https://media.tenor.com/9egJp0qwy_UAAAAi/polish-cow-polish.gif">    
 </p>
 
 Amante de programação tanto Front-end quanto Back-end, E futuro Game-Dev.
