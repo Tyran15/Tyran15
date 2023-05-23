@@ -33,12 +33,11 @@
 
 [![blog{}](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 
-
-<p float="left">
- <img src="https://media.tenor.com/9egJp0qwy_UAAAAi/polish-cow-polish.gif">    
-</p>
-
 Amante de programação tanto Front-end quanto Back-end, E futuro Game-Dev.
 
 obrigado por ler minha página \ (^-^) /
+    
+<p float="rigth">
+ <img src="https://media.tenor.com/9egJp0qwy_UAAAAi/polish-cow-polish.gif">    
+</p>
 
