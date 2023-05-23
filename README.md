@@ -35,7 +35,7 @@
 
 
 <p float="left">
- <img src="https://user-images.githubusercontent.com/105131652/186226747-206a5cb6-0390-445f-9ab7-aaa88827750e.jpg" width="200" />    
+ <img src="https://pin.it/349FwqK" width="200" />    
 </p>
 
 Amante de programação tanto Front-end quanto Back-end, E futuro Game-Dev.
