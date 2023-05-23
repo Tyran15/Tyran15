@@ -38,6 +38,6 @@ Amante de programação tanto Front-end quanto Back-end, E futuro Game-Dev.
 obrigado por ler minha página \ (^-^) /
     
 <p float="rigth">
- <img src="https://media.tenor.com/9egJp0qwy_UAAAAi/polish-cow-polish.gif">    
+ <img src="[https://media.tenor.com/9egJp0qwy_UAAAAi/polish-cow-polish.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fjtohs-joke-towers.fandom.com%2Fwiki%2FUser_blog%3ARarezites%2FPolish_Cow&psig=AOvVaw2l9793HJhcKpt7MHhWIXhx&ust=1684957462591000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCNCA8-qZjP8CFQAAAAAdAAAAABAS)">    
 </p>
 
