@@ -9,7 +9,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25" height="25"/>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="25" height="25"/>
 </div>
-###
 <div>
 <a href="https://github.com/seu-usuário-aqui">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tyran15&layout=compact&langs_count=7&theme=dracula"/>
@@ -35,7 +34,7 @@
 [![blog{}](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 
 
-
+<img src="https://pin.it/6HrEfiI">
 
 Amante de programação tanto Front-end quanto Back-end, E futuro Game-Dev.
 
