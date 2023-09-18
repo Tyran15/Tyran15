@@ -3,7 +3,7 @@
 
 <div>
     <p float="center">
-         <img src="https://media.tenor.com/pXEDrZV2s4QAAAAj/star-spinning.gif" width="100">     
+         <img src="https://www.deviantart.com/augustoodashi/art/Sonic-Ring-1991-GIF-857313136" width="100">     
     </p>
 </div>
 
