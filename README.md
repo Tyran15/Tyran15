@@ -3,7 +3,7 @@
 
 <div>
     <p float="center">
-         <img src="https://i0.wp.com/cdn1.sbnation.com/assets/3786027/mario.gif" width="100">     
+         <img src="https://i0.wp.com/cdn1.sbnation.com/assets/3786027/mario.gif" width="250">     
     </p>
 </div>
 
