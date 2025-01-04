@@ -3,7 +3,7 @@
 
 <div>
     <p float="center">
-         <img src="https://steamuserimages-a.akamaihd.net/ugc/863989189980280708/48B6AB8F12E623E5C9657235E129144E25BC89AA/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="100">     
+         <img src="https://i.kym-cdn.com/photos/images/original/001/400/328/5e3.gif" width="100">     
     </p>
 </div>
 
