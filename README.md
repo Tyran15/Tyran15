@@ -3,7 +3,7 @@
 
 <div>
     <p float="center">
-         <img src="https://i.kym-cdn.com/photos/images/original/001/400/328/5e3.gif" width="100">     
+         <img src="https://i.kym-cdn.com/photos/images/original/001/400/328/5e3.gif" width="200">     
     </p>
 </div>
 
