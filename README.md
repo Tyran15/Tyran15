@@ -3,7 +3,7 @@
 
 <div>
     <p float="center">
-         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/13f110a9-d6e3-49f9-b274-dadaeda17152/de6f71s-6fc0d454-44aa-48b2-9a37-6dac8c06915a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEzZjExMGE5LWQ2ZTMtNDlmOS1iMjc0LWRhZGFlZGExNzE1MlwvZGU2Zjcxcy02ZmMwZDQ1NC00NGFhLTQ4YjItOWEzNy02ZGFjOGMwNjkxNWEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Tn8L9JbE0ZHKO2iarRkRXXWZ7a6c4VZl---SJ81q7YY" width="100">     
+         <img src="https://steamuserimages-a.akamaihd.net/ugc/863989189980280708/48B6AB8F12E623E5C9657235E129144E25BC89AA/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="100">     
     </p>
 </div>
 
