@@ -11,7 +11,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="25" height="25"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="25" height="25"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25" height="25"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"width="25" height="25"/>
+    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" height="25"/>
     <i class="devicon-microsoftsqlserver-plain-wordmark" width="25" height="25"></i> 
 </div>
 <div>
