@@ -92,11 +92,7 @@ O projeto tem como objetivo praticar conceitos de:
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Tyran15&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tyran15&layout=compact&langs_count=8&theme=dracula"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tyran15&show_icons=true&theme=dracula)
 
 </div>
 
@@ -104,11 +100,7 @@ O projeto tem como objetivo praticar conceitos de:
 
 ## 🌐 Onde me encontrar
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Tyran15)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](SEU_LINKEDIN)
-
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge\&logo=reddit\&logoColor=white)](https://www.reddit.com/user/Mateus_henri)
 
 ---
 
