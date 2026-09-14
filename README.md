@@ -92,7 +92,7 @@ O projeto tem como objetivo praticar conceitos de:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tyran15&show_icons=true&theme=dracula)
+![Penguin Streak](https://coolreadme.xyz/api/penguin-card?user=Tyran15)
 
 </div>
 
