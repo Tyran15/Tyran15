@@ -100,7 +100,7 @@ O projeto tem como objetivo praticar conceitos de:
 
 ## 🌐 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](SEU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/matheus-henrique-teixeira-santos?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
